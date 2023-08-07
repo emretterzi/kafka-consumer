@@ -35,9 +35,6 @@ The `ConsumerListener` class is the Kafka Consumer in this application. It liste
 - The `@KafkaListener` annotation is used to specify the topic from which messages should be consumed.
 - The `ConsumerRecord` object represents the consumed message and contains its key, value, and metadata.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Author
 
